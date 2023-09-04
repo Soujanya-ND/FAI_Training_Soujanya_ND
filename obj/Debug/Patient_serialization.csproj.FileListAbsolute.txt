@@ -1,0 +1,7 @@
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\bin\Debug\Patient_serialization.exe.config
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\bin\Debug\Patient_serialization.exe
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\bin\Debug\Patient_serialization.pdb
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\obj\Debug\Patient_serialization.csproj.AssemblyReference.cache
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\obj\Debug\Patient_serialization.csproj.CoreCompileInputs.cache
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\obj\Debug\Patient_serialization.exe
+C:\Users\nndsoujanya\source\repos\Patient_serialization\Patient_serialization\obj\Debug\Patient_serialization.pdb
