@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(196, 212, 255);
+    color:brown;
+    font-size: 20pt;
+    font-size: 20pt;
+    
+    }
+    h1,h2{
+    
+    text-align: center;
+    }
+    div{
+    
+        display: inline-block;
+        /* width:65%; */
+        border:2px dotted darkcyan;
+        vertical-align:top;
+        padding:10px;
+        margin:10px;
+    }
+    a{
+    
+        width:100px;
+        height:50px;
+        background-color: burlywood;
+        color:darkgreen;
+        margin:5px;
+        padding:5px;
+    
+    }
+    a:hover{
+    
+        background-color: darkgreen;
+        color:burlywood;
+    
+    }
+    footer>span{
+    
+        font-size: 0.8em;
+        font-style:Italic;  
+        position: fixed;
+        bottom:0;
+        width:100%;
+        text-align: center;
+        
+    }
+    ul.menu{
+    
+        display: inline-block;
+        list-style-type: none;
+    }
+    .menu>li{
+        display: inline-block;
+    
+    
+    }
+    li>a{
+    
+        width:100px;
+        height:50px;
+        background-color: burlywood;
+        color:darkgreen;
+        margin:5px;
+        padding:5px;
+    }
+    td,tr{
+        height:45px;
+        padding:5px;
+    }
+    .sentence{
+    
+        /* text-transform: capitalize; */
+        text-transform:lowercase;
+        /* text-transform: uppercase;
+    */
+    }
+    .card{
+    
+        border:2px solid blue;
+        border-radius: 5px;
+        display:inline-block;
+        box-shadow:2px 2px 2px 2px red;
+    }
+    .polaroid{
+    
+        width:50%;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 lightskyblue;
+        margin-bottom: 25px;
+        float: left;
+    }
+    .rounded{
+    
+        border-radius: 50%;
+    }
+    input{
+    
+        height:20pt;
+        width:175px;
+        border-radius: 2px solid blue;
+    
+    }
+    button{
+        background-color: rgb(95, 55, 154);
+        border:2px solid blueviolet;
+        padding:5px;
+        margin:5px;
+    }
+    .Search{
+        border-radius: 5px;
+        padding: 10px;
+        width:90%;
+        margin:10px;
+    }
